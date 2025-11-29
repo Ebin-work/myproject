@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#nav1 {
+    color: black;
+    font-family: Roboto;
+}
+
+.logo {
+    width: 60px;
+    height: 80px;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://png.pngtree.com/background/20250102/original/pngtree-advertising-restaurant-menu-with-fast-food-images-through-online-banners-social-picture-image_15837895.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-main-heading {
+    color: white;
+}
+
+.banner-paragraph {
+    color: white;
+}
+
+.custom-outline-button {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+
+
+}
